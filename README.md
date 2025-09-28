@@ -12,6 +12,8 @@ Dieses Linux-Konvertierungstool sucht alle gängigen Videodateien (z.B. mp4, mkv
 Es ist besonders hilfreich für den Einsatz in **DaVinci Resolve unter Linux**.  
 Das Skript zeigt eine Live-Fortschrittsanzeige, überspringt bereits konvertierte Dateien und gibt am Ende eine Gesamtstatistik aus.
 
+![Startbildschirm](Bilder/Startbildschirm.png)
+
 ---
 
 ## 🚀 Features
@@ -38,7 +40,7 @@ Das Skript zeigt eine Live-Fortschrittsanzeige, überspringt bereits konvertiert
 
 ## 💻 Installation
 Lade dir die [Video-Converter.sh](Video-Konverter.sh) (Nach dem Klicken auf den Link oben rechts Download Pfeil)aus dieser GitHub Repo herunter und mache sie entweder über deine GUI oder über das Terminal ausführbar.
-Hier Bild einfügen
+![Startbildschirm](Bilder/ausführen gui.png)
 
 Terminal Befehl:
 ```
