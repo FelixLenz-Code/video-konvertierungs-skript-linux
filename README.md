@@ -82,6 +82,8 @@ Dieses Skript ist für den persönlichen und freien Gebrauch gedacht.
 Es kann an eigene Bedürfnisse angepasst und erweitert werden.
 Ich bin für jedes Feedback und Verbesserungen offen :)
 
+Wer ein Tool braucht das mehrere Codecs und Einstellungsmöglichkeiten bietet kann sich Handbrake als GUI für ffmpeg anschauen. Wer nur einmal Parameter abändern möchte kann in den Code der .sh Datei gehen und sich den ffmpeg Konvertierungsbefehl (relativ weit unten) anpassen :)
+
 # Das nutzen des Tools geschieht auf eigene Gefahr!
 Dieses Skript wurde mit Unterstützung von ChatGPT erstellt. Ich habe zwar selbst den Code überprüft und getestet, doch auch mir können Fehler unterlaufen. Also übernehme ich keine Verantwortung wenn ihr dieses Tools nutzen möchtet.
 
