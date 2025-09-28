@@ -37,7 +37,7 @@ Das Skript zeigt eine Live-Fortschrittsanzeige, überspringt bereits konvertiert
 | `-c:a pcm_s16le`        | Audio-Codec PCM 16-Bit Little Endian            |
 
 ## 💻 Installation
-Lade dir die [Video-Converter.sh](Video-Konverter.sh) aus dieser GitHub Repo herunter und mache sie entweder über deine GUI oder über das Terminal ausführbar.
+Lade dir die [Video-Converter.sh](Video-Konverter.sh) (Nach dem Klicken auf den Link oben rechts Download Pfeil)aus dieser GitHub Repo herunter und mache sie entweder über deine GUI oder über das Terminal ausführbar.
 Hier Bild einfügen
 
 Terminal Befehl:
