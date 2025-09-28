@@ -67,7 +67,7 @@ Skript berücksichtigt Groß- und Kleinschreibung. .MP4 funktioniert also auch.
 
 ## 🛠️ Anforderungen
 - Linux (Debian/Ubuntu, Fedora/CentOS, Arch, openSUSE) (Ich konnte nur Debian testen, ich bitte um Rückmeldung bei anderen Betriebssystemen :) )
-- ffmpeg (https://ffmpeg.org/), verwendet zur Videokonvertierung, unter LGPL/GPL lizenziert (Skript installiert ffmpeg bei Bedarf)
+- ffmpeg (https://ffmpeg.org/), verwendet zur Videokonvertierung, unter LGPL/GPL lizenziert. (Skript installiert ffmpeg bei Bedarf)
 - Bash (Normalerweise mit Terminal unter Linux gegeben)
 
 ---
