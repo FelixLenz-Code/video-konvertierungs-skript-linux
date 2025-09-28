@@ -24,3 +24,15 @@ Das Skript zeigt eine Live-Fortschrittsanzeige, überspringt bereits konvertiert
 - Vor der Konvertierung werden alle zu bearbeitenden Dateien aufgelistet und um Bestätigung gebeten
 - Gesamtstatistik am Ende (konvertierte Dateien, übersprungene Dateien, Gesamtzeit)
 - Farbiges Terminal mit Icons für bessere Übersicht
+
+
+
+| Parameter               | Bedeutung                                       |
+| ----------------------- | ----------------------------------------------- |
+| `-i`                    | Eingabedatei                                    |
+| `-c:v dnxhd`            | Video-Codec DNxHD                               |
+| `-profile:v dnxhr_hqx`  | DNxHR HQX Profil für hohe Qualität              |
+| `-pix_fmt yuv422p10le`  | Pixel-Format 10-Bit 4:2:2                       |
+| `-b:v 110M`             | Video-Bitrate: 110 Mbit/s                       |
+| `-c:a pcm_s16le`        | Audio-Codec PCM 16-Bit Little Endian            |
+
