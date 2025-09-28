@@ -33,6 +33,8 @@ Das Skript zeigt eine Live-Fortschrittsanzeige, überspringt bereits konvertiert
 | `-b:v 110M`             | Video-Bitrate: 110 Mbit/s                       |
 | `-c:a pcm_s16le`        | Audio-Codec PCM 16-Bit Little Endian            |
 
+---
+
 ## 💻 Installation
 Lade dir die [Video-Converter.sh](Video-Konverter.sh) (Nach dem Klicken auf den Link oben rechts Download Pfeil, oder via releases) aus dieser GitHub Repo herunter und mache sie entweder über deine GUI ausführbar:
 
@@ -44,6 +46,7 @@ sudo chmod +x Video-Konverter.sh
 ```
 
 Bewege die [Video-Converter.sh](Video-Konverter.sh) Datei in den Ordner in dem alle zu konvertierenden Dateien liegen und führe das Skript entweder über die GUI aus:
+
 ![gui](Bilder/startengui.png)
 
 oder über das Terminal:
@@ -51,7 +54,9 @@ oder über das Terminal:
 ./Video-Konverter.sh 
 ```
 Progress Bar Beispiel:
-![gui](Bilder/Konvertieren.png)
+
+![Progress Bar](Bilder/Konvertieren.png)
+
 ---
 
 ## 📝 Unterstützte Videoformate
