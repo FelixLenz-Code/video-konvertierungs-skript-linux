@@ -4,7 +4,7 @@
 **Unterstützt durch:** ChatGPT als Hilfstool  
 
 Wenn man die Standard Linux Version von Davinci Resolve nutzt (also die kostenlose) werden die Video Codecs H264 und H265 nicht unterstützt. Deshalb habe ich mein Videomaterial 
-in den DNxHR HQX Codec umgewandelt, um das Material unter Linux in Davinci Resolve nutzen zu können. Dieser Codec ist für die Post Production gedacht und ist deshalb geringer kompremiert als z.B. H264.
+in den DNxHR HQX Codec umgewandelt, um das Material unter Linux in Davinci Resolve nutzen zu können. Dieser Codec ist für die Post Production gedacht und ist deshalb geringer komprimiert als z.B. H264.
 Vorteil davon ist, dass auch auf nicht so leistungsstarker Hardware geschnitten werden kann. Nachteil, die konvertierten Dateien 
 **sind sehr groß!**
 
