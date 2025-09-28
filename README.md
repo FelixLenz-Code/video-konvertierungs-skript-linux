@@ -16,7 +16,6 @@ Das Skript zeigt eine Live-Fortschrittsanzeige, überspringt bereits konvertiert
 
 ## 🚀 Features
 
-```text
 - Prüft, ob ffmpeg installiert ist und installiert es ggf. plattformübergreifend
 - Live-Fortschrittsanzeige mit ETA pro Datei
 - Überspringt bereits konvertierte Dateien
@@ -25,7 +24,7 @@ Das Skript zeigt eine Live-Fortschrittsanzeige, überspringt bereits konvertiert
 - Gesamtstatistik am Ende (konvertierte Dateien, übersprungene Dateien, Gesamtzeit)
 - Farbiges Terminal mit Icons für bessere Übersicht
 
-
+## Hier die verwendeten ffmpeg Paramter:
 
 | Parameter               | Bedeutung                                       |
 | ----------------------- | ----------------------------------------------- |
