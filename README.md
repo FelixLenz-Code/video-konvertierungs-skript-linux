@@ -26,7 +26,7 @@ Das Skript zeigt eine Live-Fortschrittsanzeige, überspringt bereits konvertiert
 
 ---
 
-## Hier die verwendeten ffmpeg Paramter
+## 🔧 Die verwendeten ffmpeg Parameter
 
 | Parameter               | Bedeutung                                       |
 | ----------------------- | ----------------------------------------------- |
@@ -65,5 +65,18 @@ Skript berücksichtigt Groß- und Kleinschreibung. .MP4 funktioniert also auch.
 - ffmpeg (https://ffmpeg.org/), verwendet zur Videokonvertierung, unter LGPL/GPL lizenziert (Skript installiert ffmpeg bei Bedarf)
 - Bash (Normalerweise mit Terminal unter Linux gegeben)
 
-  ---
+---
+## 📄 Lizenz
+MIT License © 2025 Felix Lenz
+Siehe LICENSE für Details
+
+---
+
+## ❤️ Hinweise
+Dieses Skript ist für den persönlichen und freien Gebrauch gedacht.
+Es kann an eigene Bedürfnisse angepasst und erweitert werden.
+Ich bin für jedes Feedback und Verbesserungen offen :)
+
+# Das nutzen des Tools geschieht auf eigene Gefahr!
+Dieses Skript wurde mit Unterstützung von ChatGPT erstellt. Ich habe zwar selbst den Code überprüft und getestet, doch auch mir können Fehler unterlaufen. Also übernehme ich keine Verantwortung wenn ihr dieses Tools nutzen möchtet.
 
