@@ -39,21 +39,24 @@ Das Skript zeigt eine Live-Fortschrittsanzeige, überspringt bereits konvertiert
 | `-c:a pcm_s16le`        | Audio-Codec PCM 16-Bit Little Endian            |
 
 ## 💻 Installation
-Lade dir die [Video-Converter.sh](Video-Konverter.sh) (Nach dem Klicken auf den Link oben rechts Download Pfeil)aus dieser GitHub Repo herunter und mache sie entweder über deine GUI oder über das Terminal ausführbar.
-![Startbildschirm](Bilder/ausführen gui.png)
+Lade dir die [Video-Converter.sh](Video-Konverter.sh) (Nach dem Klicken auf den Link oben rechts Download Pfeil) aus dieser GitHub Repo herunter und mache sie entweder über deine GUI ausführbar:
 
-Terminal Befehl:
+![gui](Bilder/ausfuehrengui.png)
+
+oder über das Terminal:
 ```
 sudo chmod +x Video-Konverter.sh 
 ```
 
-Bewege die .sh Datei in den Ordner in dem alle zu konvertierenden Dateien liegen und führe das Skript entweder über die GUI oder dem Terminal aus:
-Hier Bild einfügen:
+Bewege die [Video-Converter.sh](Video-Konverter.sh) Datei in den Ordner in dem alle zu konvertierenden Dateien liegen und führe das Skript entweder über die GUI aus:
+![gui](Bilder/startengui.png)
 
-Terminal Befehl:
+oder über das Terminal:
 ```
 ./Video-Konverter.sh 
 ```
+Progress Bar Beispiel:
+![gui](Bilder/Konvertieren.png)
 ---
 
 ## 📝 Unterstützte Videoformate
